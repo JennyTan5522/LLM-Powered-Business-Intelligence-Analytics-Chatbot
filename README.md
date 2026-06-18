@@ -4,8 +4,6 @@
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Feedback and Contributions](#feedback-and-contributions)
-- [Contacts](#contacts)
 
 # About 
 ## 📊 Generative BI Analysis
