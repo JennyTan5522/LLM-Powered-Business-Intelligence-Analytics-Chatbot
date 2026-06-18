@@ -1,5 +1,3 @@
-⭐ Star us on GitHub — your support motivates us a lot! 🙏😊
-
 # Table of Contents
 - [About](#about)
 - [Architecture](#architecture)
@@ -10,7 +8,7 @@
 - [Contacts](#contacts)
 
 # About 
-## 📊 IntelliQuery BI
+## 📊 Generative BI Analysis
 
 ![Gen BI Logo](https://img.shields.io/badge/Gen%20BI-AI%20Powered%20Analytics-blue?style=for-the-badge&logo=streamlit)
 
@@ -132,7 +130,7 @@ Gen BI/
    ```
 
 ## Demo Usage Guide
-⭐Below are sample UI with IntelliQuery BI’s interface and features:
+Below are sample UI with IntelliQuery BI’s interface and features:
 
 #### 1. Response Tab
 
@@ -153,15 +151,3 @@ Gen BI/
 <img src="data/img/doc_tab_ui.png" alt="Document Tab UI" width="600"/>
 
 ---
-
-⭐️ More demo content coming soon. Stay tuned!
-
-# Feedback and Contributions
-🤝 We are committed to continuous improvement and value your feedback. Whether you have suggestions, feature requests, or have found a bug, please let us know. You can contribute by submitting an issue or joining the discussions. Every contribution helps us grow and improve.
-
-Thank you for your support!
-
-# Contacts
-🗨️ For more information about Gen BI products, services, or general inquiries, please contact us:
-
-Email: jennytan5522@gmail.com
